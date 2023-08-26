@@ -1,5 +1,5 @@
 # CodeClauseInternship_Community_Forum
-# (http://techshiv.lovestoblog.com/)
+# http://techshiv.lovestoblog.com/index.php
 # Output
 ![image](https://github.com/shivkumar44/CodeClauseInternship_Community_Forum/assets/123741836/0b9ea9af-0dba-4989-a283-0570bce7338c)
 
