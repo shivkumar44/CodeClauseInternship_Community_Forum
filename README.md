@@ -7,6 +7,10 @@
 
 ![image](https://github.com/shivkumar44/CodeClauseInternship_Community_Forum/assets/123741836/56945ef5-52c0-49b3-a371-68c86e15fd3b)
 
+![image](https://github.com/shivkumar44/CodeClauseInternship_Community_Forum/assets/123741836/5d48586b-2ae8-4824-9626-af0a961af316)
+
+
+
 
 
 
